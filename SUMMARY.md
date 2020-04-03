@@ -1,5 +1,7 @@
 # Summary
 
-* [更改测试1处](README.md)
-    * [更改测试2处](ch0/handbook.md)
+* [介绍](README.md)
+    * [小程序设置](ch0/setting.md)
+    * [签到](ch0/signIn.md)
+    * [客户](ch0/customer.md)
 
